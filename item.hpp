@@ -1,4 +1,9 @@
-// item.hpp
+/*
+ * item.hpp
+ *
+ *  Created on: Dec 22, 2022
+ *      Author: llanyro
+ */
 
 #ifndef ITEM_HPP_
 #define ITEM_HPP_

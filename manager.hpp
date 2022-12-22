@@ -1,4 +1,9 @@
-// manager.hpp
+/*
+ * manager.hpp
+ *
+ *  Created on: Dec 22, 2022
+ *      Author: llanyro
+ */
 
 #ifndef MANAGER_HPP_
 #define MANAGER_HPP_
