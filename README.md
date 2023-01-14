@@ -1,9 +1,9 @@
 # ExampleStaticLibAccess
 ## What is this?
-This is an example / test of a method to develop software for c/c++ with the feature that anyone can create libs(mods or plug-ins) to the main core
-Also, this tests is mods/plug-ins can override functions (of interfaces classes) to use new functions (thats the thing of a mod/plug-in)
+This is an example/test of a method for developing C/C++ software with the feature that anyone can create libraries (mods or plugins) for the main core.
+Additionally, this test verifies that mods/plugins can override functions (of interface classes) to use new functions (that's the purpose of a mod/plugin).
 
-This code was tested in Ubuntu 20 (or 22, idk) and Windows 10
+This code has been tested on Ubuntu 20 (or 22, unsure) and Windows 10.
 
 ### How to compile this example with gcc(g++)
 ```bash
