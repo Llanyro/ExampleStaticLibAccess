@@ -1,5 +1,5 @@
 # ExampleStaticLibAccess
-## What is this
+## What is this?
 This is an example / test of a method to develop software for c/c++ with the feature that anyone can create libs(mods or plug-ins) to the main core
 Also, this tests is mods/plug-ins can override functions (of interfaces classes) to use new functions (thats the thing of a mod/plug-in)
 
