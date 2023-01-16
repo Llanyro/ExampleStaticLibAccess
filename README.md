@@ -7,10 +7,10 @@ This code has been tested on Ubuntu 20 (or 22, unsure) and Windows 10.
 
 ### How to compile this example with gcc(g++)
 ```bash
-g++ -fPIC -c -o main.o main.cpp
-g++ -o main main.o -ldl
 g++ -fPIC -c -o dll.o dll.cpp
 g++ -shared -o dll.so dll.o
+g++ -fPIC -c -o main.o main.cpp
+g++ -o main main.o -ldl
 ```
 
 ### How to compile this example with MinGW
